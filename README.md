@@ -1,2 +1,2 @@
 # Day03
-This is mz 3rd
+This is my 3rd
