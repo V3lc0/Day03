@@ -1,2 +1,2 @@
 # Day03
-This is my 3rd asignment
+This is my 3rd assignment
